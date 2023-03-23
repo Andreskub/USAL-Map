@@ -17,7 +17,7 @@
     "react-snowfall": "^1.1.1",
     "use-resize-observer": "^9.0.2"
   },
-  "homepage": "https://andreskub.github.io/USAL-Map/",
+  "homepage": "https://andreskub.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
